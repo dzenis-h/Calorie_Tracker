@@ -1,0 +1,19 @@
+/*  Simple media querie for mobile devices*/
+@media screen and (max-width: 567px) {
+  button.btn {
+    margin-top: 0.3rem;
+    font-size: 0.75em;
+  }
+  .card .card-title {
+    font-size: 1.4rem;
+  }
+  button.back-btn {
+    float: none;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  button.back-btn {
+    float: right;
+  }
+}

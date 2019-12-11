@@ -1,4 +1,5 @@
-# Calorie_Tracker
-It's Calorie_Tracker that saves your data into LS. It' made with pure vanilla JavaScript using the 'Module Pattern', ES6 features, Materialize CSS and Font Awesome for styling.
+# Bigga CT | Meal & Calorie Tracker
 
-Deployed to Heroku. Check it out: https://bigga-calorie-tracker.herokuapp.com
+It's a Calorie Tracker app that persists your data into local storage. It's made with pure vanilla JavaScript following the 'Module Pattern' and by using ES6 features. The design was achieved using the Materialize CSS framework and the Font Awesome library.
+
+Deployed to Firebase. Check it out: https://web-calorie-tracker.firebaseapp.com
