@@ -34,7 +34,7 @@ Contributions are always welcome! If you would like to contribute to this projec
 This project is licensed under the MIT License - see the [LICENSE](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing) file for details.
 
 ## Deployed 🚀
-You can see the live version of the app [here](https://dzenis-h.github.io/Calorie_Tracker=-
+You can see the live version of the app [here](https://dzenis-h.github.io/Calorie_Tracker).
 
 ## Credits 🙏
 Calorie Tracker was created by [Dzenis H.](https://www.dzenis.tech)
